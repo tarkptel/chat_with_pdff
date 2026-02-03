@@ -7,6 +7,13 @@ The app retrieves relevant document chunks using embeddings and generates answer
 
 <hr/>
 
+## 🔗 Live Demo
+
+Check out the live app on Hugging Face Spaces:  
+👉 [**Chat with PDF - Live Demo**](https://huggingface.co/spaces/tarkpatel/chat_with_pdf)
+
+
+
 <h2>🚀 Features</h2>
 <ul>
   <li>Upload any PDF and ask questions</li>
