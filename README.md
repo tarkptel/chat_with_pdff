@@ -1,4 +1,4 @@
-<h1>📄 Chat with PDF using RAG (Groq + LangChain)</h1>
+<h1>📄 Chat with PDF using RAG ..(Groq + LangChain)</h1>
 
 <p>
 A simple and efficient <b>Retrieval-Augmented Generation (RAG)</b> application that allows users to upload a PDF and ask questions about its content.
