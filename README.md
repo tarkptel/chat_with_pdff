@@ -2,7 +2,7 @@
 
 <p>
 A simple and efficient <b>Retrieval-Augmented Generation (RAG)</b> application that allows users to upload a PDF and ask questions about its content.
-The app retrieves relevant document chunks using embeddings and generates answers using a powerful LLM via the <b>Groq API</b>.
+The app retrieves relevant document chunks using embeddings and generates answers using a powerful LLM ..via the <b>Groq API</b>.
 </p>
 
 <hr/>
